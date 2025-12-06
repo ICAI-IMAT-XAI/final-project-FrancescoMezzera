@@ -6,10 +6,10 @@ XAI Final Project: Telco Customer Churn Analysis
 In this project we are going to use Explainable AI (XGBoost + SHAP) to understand the key reasons why Telco customers are leaving and provides actionable business recommendations.
 
 Project Structure:
-- `notebooks/`: Contains the main analysis and the code (`Final_Project.ipynb`).
-- `report/`: Contains the final written report (`ReportXAI.pdf`).
-- `dataset/`: Contains the required dataset (`WA_Fn-UseC_-Telco-Customer-Churn.csv`) used for the entire analysis.
-- `requirements.txt`: Lists all Python libraries needed to run the code.
+- `Notebooks/`: Contains the main analysis and the code (`Final_Project.ipynb`).
+- `Report/`: Contains the final written report (`ReportXAI.pdf`).
+- `Dataset/`: Contains the required dataset (`WA_Fn-UseC_-Telco-Customer-Churn.csv`) used for the entire analysis.
+- `Requirements.txt`: Lists all Python libraries needed to run the code.
 
 Important notes on how to Run the Code:
 
