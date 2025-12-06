@@ -15,7 +15,7 @@ Important notes on how to Run the Code:
 
 To run the analysis in the notebook, you must first ensure the dataset is available in your environment.
 
-1.  Install libraries listed in `requirements.txt`.
+1.  Install libraries listed in `Requirements.txt`.
 2.  **Dataset Upload:** To run the notebook it is required the dataset file **`WA_Fn-UseC_-Telco-Customer-Churn.csv`**.
     * If running in an online environment (like Google Colab), please **upload the dataset file** directly into the session where the code is executed.
     * The file is expected to be present in the root path of the running notebook.
