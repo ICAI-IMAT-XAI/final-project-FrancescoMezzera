@@ -1,1 +1,20 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d89f4r04)
+
+
+XAI Final Project: Telco Customer Churn Analysis
+
+This project uses Explainable AI (XGBoost + SHAP) to understand the key reasons why Telco customers are leaving and provides actionable business recommendations.
+
+Project Structure:
+- `notebooks/`: Contains the main analysis and code (`Final_Project.ipynb`).
+- `report/`: Contains the final written report (`ReportXAI.pdf`).
+- `requirements.txt`: Lists all Python libraries needed to run the code.
+
+How to Run the Code:
+
+To run the analysis in the notebook, you must first ensure the dataset is available in your environment.
+
+1.  Install libraries listed in `requirements.txt`.
+2.  **Dataset Upload:** The notebook requires the dataset file **`WA_Fn-UseC_-Telco-Customer-Churn.csv`**.
+    * If running in an online environment (like Google Colab), please **upload the dataset file** directly into the session where the code is executed.
+    * The file is expected to be present in the root path of the running notebook.
